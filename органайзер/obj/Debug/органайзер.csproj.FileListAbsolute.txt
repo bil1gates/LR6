@@ -1,0 +1,49 @@
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\bin\Debug\органайзер.exe.config
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\bin\Debug\органайзер.exe
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\bin\Debug\органайзер.pdb
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.csproj.AssemblyReference.cache
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.Form1.resources
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.Form2.resources
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.Properties.Resources.resources
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.csproj.GenerateResource.cache
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.csproj.CoreCompileInputs.cache
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.exe
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.pdb
+E:\КубГТУ\ТРПО\курсач\курсач\органайзер\органайзер\obj\Debug\органайзер.Form3.resources
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.exe.config
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.exe
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.pdb
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form1.resources
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form2.resources
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form3.resources
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Properties.Resources.resources
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.exe
+C:\Users\Vlad\Desktop\2 курс\ТРПО\Лабы\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.pdb
+E:\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.exe.config
+E:\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.exe
+E:\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.pdb
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.AssemblyReference.cache
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.SuggestedBindingRedirects.cache
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form1.resources
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form2.resources
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form3.resources
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Properties.Resources.resources
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.GenerateResource.cache
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.CoreCompileInputs.cache
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.exe
+E:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.pdb
+F:\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.exe.config
+F:\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.exe
+F:\ТРПО_КП\органайзер\органайзер\bin\Debug\органайзер.pdb
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.AssemblyReference.cache
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form1.resources
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form2.resources
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Form3.resources
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.Properties.Resources.resources
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.GenerateResource.cache
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.csproj.CoreCompileInputs.cache
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.exe
+F:\ТРПО_КП\органайзер\органайзер\obj\Debug\органайзер.pdb
